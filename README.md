@@ -1,0 +1,2 @@
+# aptitude
+Konfiguracja Aptitude.
