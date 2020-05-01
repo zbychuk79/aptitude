@@ -1,0 +1,8 @@
+aptitude "";
+aptitude::Keep-Unused-Pattern "";
+aptitude::Delete-Unused-Pattern "";
+aptitude::UI "";
+aptitude::UI::Advance-On-Action "true";
+aptitude::Clean-After-Install "true";
+aptitude::AutoClean-After-Update "true";
+aptitude::Auto-Upgrade "true";
